@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Friends don't let friends drive." --Bill Murray, Groundhog Day 
+"Excellent!" -Bill 
 Use the left arrow to go back!
